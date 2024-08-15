@@ -31,17 +31,17 @@ git checkout solo
 
 ### Prepare Your Workspace
 
-1. [ ] First, stop any other Codespaces you have running to conserve core hours.
+1. [x] First, stop any other Codespaces you have running to conserve core hours.
 
 ## Create Your First CSS File
-2. [ ] Perform these steps alongside your instructor to create your first CSS file.
+2. [x] Perform these steps alongside your instructor to create your first CSS file.
     - Right-click on your explorer on the left.
     - Click New File.
     - Name it `styles.css`.
     - Click on your HTML file to return to viewing your HTML code.
 
 ## Link Your CSS File to Your HTML File
-3. [ ] With your instructor's guidance, successfully link to your CSS file.
+3. [x] With your instructor's guidance, successfully link to your CSS file.
     - In your HTML file, create a `<link>` element within the `<head>` element.
     - Give that `<link>` element this `rel` attribute: `rel="stylesheet"`.
     - Then, give it this `href` attribute: `href="styles.css"`.
